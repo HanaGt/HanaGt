@@ -20,10 +20,10 @@ My name is Hana Guta , Asoftware engineer from ethiopia.
   <h2>&nbsp;</h2>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=LeulBayesa&show_icons=true&theme=radical&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=HanaGt&show_icons=true&theme=radical&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeulBayesa&langs_count=8&theme=radical&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanaGt&langs_count=8&theme=radical&layout=compact" />
 </a>
 <h2>&nbsp;</h2>
 
