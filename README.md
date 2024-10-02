@@ -18,6 +18,7 @@ My name is Hana Guta , Asoftware engineer from ethiopia.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt ="react" width ="25"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt ="nodejs" width ="25"/> 
   <h2>&nbsp;</h2>
+  
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=HanaGt&show_icons=true&theme=radical&layout=compact" />
